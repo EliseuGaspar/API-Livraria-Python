@@ -1,0 +1,69 @@
+{
+    "Leitores": [
+        {
+            "Nome": "Eliseu Gaspar",
+            "e-mail": "eliseugaspar4@gmail.com",
+            "id": "1018",
+            "livros": [],
+            "phone_number": "937 702 795"
+        }
+    ],
+    "Livros": [
+        {
+            "Nome": "Pin\u00f3quio",
+            "disp.": true,
+            "id": "3487",
+            "prat.": 22,
+            "quant.": 22
+        },
+        {
+            "Nome": "As Aventuras de Kerubin",
+            "disp.": true,
+            "id": "4816",
+            "prat.": 40,
+            "quant.": 40
+        },
+        {
+            "Nome": "La Presa del Monte Carlo",
+            "disp.": false,
+            "id": "004",
+            "prat.": 2,
+            "quant.": 10
+        },
+        {
+            "Nome": "Esperen\u00e7a",
+            "disp.": true,
+            "id": "4344",
+            "prat.": 2,
+            "quant.": 2
+        },
+        {
+            "Nome": "O Principezinho 2",
+            "disp.": true,
+            "id": "5283",
+            "prat.": 4,
+            "quant.": 11
+        },
+        {
+            "Nome": "Pr\u00e9 Hist\u00f3ria",
+            "disp.": true,
+            "id": "8016",
+            "prat.": 17,
+            "quant.": 11
+        },
+        {
+            "Nome": "Rosas Meigas",
+            "disp.": true,
+            "id": "4368",
+            "prat.": 5,
+            "quant.": 5
+        },
+        {
+            "Nome": "Minha Vida, Tua Vida",
+            "disp.": true,
+            "id": "6325",
+            "prat.": 1,
+            "quant.": 1
+        }
+    ]
+}
